@@ -1,2 +1,2 @@
-# TP_HTML_UNG
+# TP-HTML-UNG
 TP 01 HTML - Structure page d'actualités UNG 
